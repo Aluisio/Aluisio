@@ -50,7 +50,7 @@ Currently I'm a Tech Lead (Senior Developer) and working with React Native to ma
 </div>
 <br>
 
-Do you use VS Code? How about **using my theme** in your VSCode?
+Do you use VS Code? How about **using my theme** in your VSCode?<br>
 [![FuedsKeps VSCode Theme](https://img.shields.io/visual-studio-marketplace/v/aluisiodeavila.fuedskeps-theme.svg?label=FuedsKeps%20VSCode%20Theme&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=aluisiodeavila.fuedskeps-theme)
 
 :mortar_board: I am graduated in Information Systems in UFSM. 
