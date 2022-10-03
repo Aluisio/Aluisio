@@ -45,6 +45,8 @@ Currently I'm a Tech Lead (Senior Developer) and working with React Native to ma
   &nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" height="35px" alt="GitHub"/>  
   &nbsp;
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" height="35px" alt="Trello"/>  
+  &nbsp;
   <img src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" height="35px" alt="Amazon AWS"/>  
   &nbsp;
 </div>
