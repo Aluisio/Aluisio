@@ -5,7 +5,7 @@ I work with React to create web applications, React Native to create Mobile appl
 I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
 ## Technologies I use in my daily life
-<div style="display:inline_block"><br>
+<div style="display:inline_block;margin-top:-30px"><br>
   <p><b>Languages</b></p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px" alt="TypeScript"/>
   &nbsp;
