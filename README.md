@@ -4,13 +4,12 @@
 <p>I work with React to create web applications, React Native to create Mobile applications and Node.js to create backend applications. 📱🖥️</p>
 <p>I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
-### Technologies I use in my daily life
+#### Technologies I use in my daily life
 <div style="display:inline_block"><br>
   <p><b>Languages</b></p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px" alt="TypeScript"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px" alt="JavaScript"/>
-  &nbsp;    
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px" alt="JavaScript"/>  
 </div>
 
 <div style="display:inline_block"><br>
@@ -24,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="35px" alt="Express"/>  
   &nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kLgeMCC---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png" height="35px" alt="Expo"/>  
-  &nbsp;
 </div>
 
 <div style="display:inline_block"><br>
@@ -34,7 +32,6 @@
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px" alt="My SQL"/>
   &nbsp;
   <img src="https://img.icons8.com/color/452/mongodb.png" height="35px" alt="MongoDB"/>
-  &nbsp;
 </div>
 
 <div style="display:inline_block"><br>
@@ -50,7 +47,6 @@
   <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" height="35px" alt="Trello"/>  
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="35px" alt="Notion"/>  
-  &nbsp;
 </div>
 <br>
 
@@ -59,7 +55,7 @@ Do you use VS Code? How about **using my theme** in your VSCode?<br>
 
 **Follow me on my social media:**
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/aluisiodeavila/)](https://www.instagram.com/aluisiodeavila/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/aluisiodeavila/)](https://www.instagram.com/aluisiodeavila/)  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aluisiodeavila/)](https://www.linkedin.com/in/aluisiodeavila/) 
 [![Twitter Badge](https://img.shields.io/badge/-X-6633cc?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/aluisioavila)](https://twitter.com/aluisioavila) 
 
