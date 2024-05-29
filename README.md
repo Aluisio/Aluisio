@@ -4,7 +4,7 @@
 <p>I work with React to create web applications, React Native to create Mobile applications and Node.js to create backend applications. 📱🖥️</p>
 <p>I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
-## Technologies I use in my daily life
+### Technologies I use in my daily life
 <div style="display:inline_block"><br>
   <p><b>Languages</b></p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px" alt="TypeScript"/>
@@ -20,7 +20,7 @@
   <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" alt="NodeJS"/>  
   &nbsp;
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" height="35px" alt="NextJS"/> 
-  &nbsp;
+  &nbsp;          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="35px" alt="Express"/>  
   &nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kLgeMCC---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png" height="35px" alt="Expo"/>  
