@@ -1,10 +1,10 @@
 ## Hi! I'm Aluisio de Avila <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-<p>I'm Tech lead and Senior Developer specialist in Web, Mobile, and Desktop development.</p>
-<p>I work with React to create web applications, React Native to create Mobile applications and Node.js to create backend applications. 📱🖥️</p>
-<p>I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
+<p>I'm Tech lead and Senior Developer specialist in Web, Mobile, and Desktop development.<br>
+I work with React to create web applications, React Native to create Mobile applications and Node.js to create backend applications. 📱🖥️<br>
+I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
-#### Technologies I use in my daily life
+## Technologies I use in my daily life
 <div style="display:inline_block"><br>
   <p><b>Languages</b></p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px" alt="TypeScript"/>
