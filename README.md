@@ -55,7 +55,7 @@ Do you use VS Code? How about **using my theme** in your VSCode?<br>
 
 **Follow me on my social media:**
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/aluisiodeavila/)](https://www.instagram.com/aluisiodeavila/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/aluisiodeavila/)](https://www.instagram.com/aluisiodeavila/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aluisiodeavila/)](https://www.linkedin.com/in/aluisiodeavila/) 
 [![Twitter Badge](https://img.shields.io/badge/-X-6633cc?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/aluisioavila)](https://twitter.com/aluisioavila) 
 
