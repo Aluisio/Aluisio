@@ -1,6 +1,6 @@
 ## Hi! I'm Aluisio de Avila <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-<p>I'm Tech lead and Senior Developer specialist in Web, Mobile, and Desktop development.<br>
+<p>I'm Head of Technology and Senior Developer specialist in Web, Mobile, and Desktop development.<br>
 I work with React to create web applications, React Native to create Mobile applications and Node.js to create backend applications. 📱🖥️<br>
 I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
