@@ -17,7 +17,7 @@ I'm also an expert in PostgreSQL, MySQL, and Firebird database.</p>
 
 <div style="display:inline_block"><br>
   <p><b>Databases</b></p>  
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="35px" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" height="35px" alt="Databases"/>
 </div>
 
 <div style="display:inline_block"><br>
